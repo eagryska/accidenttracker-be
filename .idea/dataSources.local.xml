@@ -13,5 +13,11 @@
       <introspection-scope>tasker_dev:</introspection-scope>
       <resolve-scope>tasker_dev:</resolve-scope>
     </data-source>
+    <data-source name="MySQL - accidenttracker_test@localhost" uuid="bfd56de1-536f-4210-a9bd-a279d3933052">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>accidenttracker_test:</introspection-scope>
+      <resolve-scope>accidenttracker_test:</resolve-scope>
+    </data-source>
   </component>
 </project>

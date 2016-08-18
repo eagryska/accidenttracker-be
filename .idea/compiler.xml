@@ -19,6 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="accidenttracker-be_main" target="1.8" />
+      <module name="accidenttracker-be_test" target="1.8" />
       <module name="tasker_main" target="1.8" />
       <module name="tasker_test" target="1.8" />
     </bytecodeTargetLevel>
